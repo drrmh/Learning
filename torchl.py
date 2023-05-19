@@ -68,5 +68,5 @@ for epoch in range(5):  # loop over the dataset multiple times
             print(f'[{epoch + 1}, {i + 1:5d}] loss: {running_loss/2000:.3f}')
             running_loss = 0.0
 
-print('Finished Training')
+print('All Done  Training')
 
